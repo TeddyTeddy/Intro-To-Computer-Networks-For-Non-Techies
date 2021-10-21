@@ -1,0 +1,2 @@
+ifconfig -a     : to list interfaces + mac address + ip addr
+ip addr show    : to list interfaces + mac address + ip addr
